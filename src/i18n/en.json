@@ -187,35 +187,35 @@
         "paragraph": "Our team is made up of passionate students from the Faculty of Engineering and Sciences at the Peruvian University of Applied Sciences (UPC). We are committed to improving medical monitoring and hormonal health in Peru.",
         "members": [
             {
-                "img": "img/team/Profiles/andrelatorre.png",
-                "name": "Andre La Torre",
-                "job": "Web Developer"
+                "img": "img/team/Profiles/jeremyantonio.png",
+                "name": "Jeremy Antonio",
+                "job": "Mobile Developer"
             },
             {
-                "img": "img/team/Profiles/estefanolostaunau.png",
-                "name": "Estefano Lostaunau",
-                "job": "Mobile and Backend Developer"
+                "img": "img/team/Profiles/joaquincarbajal.png",
+                "name": "Joaquin Carbajal",
+                "job": "Backend Developer"
             },
             {
-                "img": "img/team/Profiles/luischinchihualpa.jpg",
-                "name": "Luis Chinchihualpa",
-                "job": "Web Developer"
+                "img": "img/team/Profiles/josecalderon.png",
+                "name": "Jose Calderon",
+                "job": "Mobile Developer"
             },
             {
                 "img": "img/team/Profiles/sandroquispesivana.png",
                 "name": "Sandro Quispesivana",
-                "job": "Mobile and Backend Developer"
+                "job": "Backend Developer"
             },
             {
-                "img": "img/team/Profiles/sergiopecan.jpg",
-                "name": "Sergio Pecan",
-                "job": "Web Developer"
+                "img": "img/team/Profiles/juancuadros.png",
+                "name": "Juan Cuadros",
+                "job": "Mobile Developer"
             }
         ]
     },
     "About": {
         "title": "About Us",
-        "paragraph": "Toiota is a startup formed by students from the Faculty of Engineering and Sciences at the Peruvian University of Applied Sciences (UPC), dedicated to optimizing medical monitoring. Our vision is to address the existing challenges in the Peruvian healthcare system, especially in the monitoring of hormonal diseases.",
+        "paragraph": "NinjaCode is a startup formed by students from the Faculty of Engineering and Sciences at the Peruvian University of Applied Sciences (UPC), dedicated to optimizing medical monitoring. Our vision is to address the existing challenges in the Peruvian healthcare system, especially in the monitoring of hormonal diseases.",
         "Why": [
             "Personalized patient monitoring",
             "Focus on hormonal diseases",

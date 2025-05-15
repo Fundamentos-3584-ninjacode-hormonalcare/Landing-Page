@@ -187,35 +187,35 @@
         "paragraph": "Nuestro equipo está formado por estudiantes apasionados de la Facultad de Ingeniería y Ciencias de la Universidad Peruana de Ciencias Aplicadas (UPC). Estamos comprometidos a mejorar el seguimiento médico y la salud hormonal en Perú.",
         "members":[
             {
-                "img": "img/team/Profiles/andrelatorre.png",
-                "name": "Andre La Torre",
-                "job": "Desarrollador Web"
+                "img": "img/team/Profiles/jeremyantonio.png",
+                "name": "Jeremy Antonio",
+                "job": "Mobile Developer"
             },
             {
-                "img": "img/team/Profiles/estefanolostaunau.png",
-                "name": "Estefano Lostaunau",
-                "job": "Desarrollador Móvil y Backend"
+                "img": "img/team/Profiles/joaquincarbajal.png",
+                "name": "Joaquin Carbajal",
+                "job": "Backend Developer"
             },
             {
-                "img": "img/team/Profiles/luischinchihualpa.jpg",
-                "name": "Luis Chinchihualpa",
-                "job": "Desarrollador Web"
+                "img": "img/team/Profiles/josecalderon.png",
+                "name": "Jose Calderon",
+                "job": "Mobile Developer"
             },
             {
                 "img": "img/team/Profiles/sandroquispesivana.png",
                 "name": "Sandro Quispesivana",
-                "job": "Desarrollador Móvil y Backend"
+                "job": "Backend Developer"
             },
             {
-                "img": "img/team/Profiles/sergiopecan.jpg",
-                "name": "Sergio Pecan",
-                "job": "Desarrollador Web"
+                "img": "img/team/Profiles/juancuadros.png",
+                "name": "Juan Cuadros",
+                "job": "Mobile Developer"
             }
         ]
     },
     "About": {
         "title": "Sobre Nosotros",
-        "paragraph": "Toiota es una startup formada por estudiantes de la Facultad de Ingeniería y Ciencias de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a optimizar el seguimiento médico. Nuestra visión es abordar los desafíos existentes en el sistema de salud peruano, especialmente en el seguimiento de enfermedades hormonales.",
+        "paragraph": "NinjaCode es una startup formada por estudiantes de la Facultad de Ingeniería y Ciencias de la Universidad Peruana de Ciencias Aplicadas (UPC), dedicada a optimizar el seguimiento médico. Nuestra visión es abordar los desafíos existentes en el sistema de salud peruano, especialmente en el seguimiento de enfermedades hormonales.",
         "Why": [
             "Seguimiento personalizado del paciente",
             "Enfoque en enfermedades hormonales",
