@@ -8,7 +8,7 @@ export const About = () => {
       <div className='container'>
         <div className='row'>
           <div className='col-xs-12 col-md-6'>
-            <img src='../../../public/img/logo_ninjacode.png' className='img-responsive' alt='' />
+            <img src='https://github.com/UPC-SW63-Aplicaciones-moviles-NinjaCode/upc-pre-202402-cc238-sw63-NinjaCode-report-tf/raw/main/images/imagen1.jpg' className='img-responsive' alt='' />
           </div>
           <div className='col-xs-12 col-md-6'>
             <div className='about-text'>
